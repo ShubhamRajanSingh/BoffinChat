@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BoffinChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contacts_fragment">Contacts Fragment</string>
+    <string name="chats_fragment">Chats Fragment</string>
+    <string name="groups_fragment">Groups Fragment</string>
+    <string name="find_friend">Find Friend</string>
+    <string name="sign_out">Sign out</string>
+    <string name="settings">Settings</string>
+    <string name="create_group">Create Group</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+</resources>

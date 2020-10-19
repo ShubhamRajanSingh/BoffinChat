@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347161945862",
+    "firebase_url": "https://boffinchat.firebaseio.com",
+    "project_id": "boffinchat",
+    "storage_bucket": "boffinchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347161945862:android:f4a3011a7be09ca10aa087",
+        "android_client_info": {
+          "package_name": "com.example.boffinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347161945862-behn3bfrl5kcn0s3ddqfdv5r3c1f0lql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boffinchat",
+            "certificate_hash": "9102ee8ed143bcd73f308e05b0196a74c7acb10c"
+          }
+        },
+        {
+          "client_id": "347161945862-5bari7jigq70k58tavpqdni1eeic2u49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbJhpYeKB-kyjlCwGCcePYRmWU_GKqjK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347161945862-5bari7jigq70k58tavpqdni1eeic2u49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
